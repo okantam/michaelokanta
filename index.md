@@ -30,38 +30,38 @@ subtitle: "Graduate Teaching Assistant | MSc in Statistics | Miami University"
     <li>
       <h3>Leading Causes of Mortality in the USA</h3>
       <p>Dashboard showing the Leading Causes of Mortality in the USA according to CDC data from 1999 to 2017. Tools: R.</p>
-      <a href="https://raw.githubusercontent.com/okantam/okantam.github.io/main/MICHAEL%20OKANTA%20-%20STA%20504%20PROJECT.html" target="_blank">🔗 View Dashboard</a>
+      <a href="https://drive.google.com/drive/u/0/folders/1Yg4SN-pbv89mvukr1HNZw-aYwxivGLgs" target="_blank">🔗 View Dashboard</a>
     </li>
     <li>
       <h3>Text Comprehension Study</h3>
-      <p>Analyzed the impact of font style, size and medium on reading comprehension. Tools: SAS.</p>
-      <a href="https://raw.githubusercontent.com/okantam/okantam.github.io/main/annotated-Group%205%20Project%20Report%20(1).pdf" target="_blank">🔗 View Article</a>
+      <p>Analyzed the impact of font style, size and medium on reading comprehension using a 2^3 factorial design. Tools: SAS.</p>
+      <a href="https://drive.google.com/drive/u/0/folders/1AK5qGQQ7uUFFH0Z09b39SLV6Y135fz0y" target="_blank">🔗 View Article</a>
     </li>
     <li>
       <h3>Effects of Aloe arborescens Compounds on Candida albicans Morphogenesis</h3>
       <p>Investigates effects of compounds derived from Aloe arborescens on the morphogenesis of Candida albicans, specifically
 focusing on the reduction of hyphae and germ tube formation. Tools: R.</p>
-      <a href="https://raw.githubusercontent.com/okantam/okantam.github.io/main/annotated-Preliminary%20Analysis%20Report%20on%20the%20Effect%20of%20Aloe%20arborescens%20Compounds%20on%20Candida%20albicans%20Morphogenesis.pdf" target="_blank">🔗 View PDF</a>
+      <a href="https://drive.google.com/drive/u/0/folders/1rj66B1WdJcuZQjGmOHCEwAzTgg9voFA8" target="_blank">🔗 View PDF</a>
     </li>
     <li>
       <h3>MKT Faculty Ratings Analysis</h3>
       <p>Investigates relationships between professor and student metrics in marketing courses at Miami University. Tools: R.</p>
-      <a href="https://raw.githubusercontent.com/okantam/okantam.github.io/main/Report--1-.pdf" target="_blank">🔗 View PDF</a>
+      <a href="https://drive.google.com/drive/u/0/folders/1YZsOiojtYYK8bae-_hphJrFyTa5RukpY" target="_blank">🔗 View PDF</a>
     </li>
     <li>
       <h3>Great Lakes Ice Cover</h3>
       <p>Inferential analysis of seasonal trends in ice coverage using time series and AUC metrics. Tools: R</p>
-      <a href="https://raw.githubusercontent.com/okantam/okantam.github.io/main/Final-report%20(1).html" target="_blank">🔗 View PDF</a>
+      <a href="https://drive.google.com/drive/u/0/folders/1_ahKGt0UEGC8s56hp6CAAsmVM915MWKa" target="_blank">🔗 View PDF</a>
     </li>
     <li>
       <h3>Traffic Stop Data Analysis</h3>
       <p>Exploratory and inferential analysis of LMPD traffic stop data. Tools: R.</p>
-      <a href="https://raw.githubusercontent.com/okantam/okantam.github.io/main/annotated-%5BSTA%20660%5D%20Project%206%20-%20Team%205.pptx%20(1).pdf" target="_blank">🔗 View Slides</a>
+      <a href="https://drive.google.com/drive/u/0/folders/15dL1hMAtT_BX7hsRqgGAbEiJT2yJ5jPt" target="_blank">🔗 View Slides</a>
     </li>
     <li>
       <h3>Blood Pressure Data Report</h3>
       <p>Statistical summary and inference for a clinical dataset. Tools: R.</p>
-      <a href="https://raw.githubusercontent.com/okantam/okantam.github.io/main/annotated-FINAL-PRESSURE-ANALYSIS.pdf" target="_blank">🔗 View PDF</a>
+      <a href="https://drive.google.com/drive/u/0/folders/1jqtcpqDhMHZG3M5TaIPyQ8pWRcaS5KfE" target="_blank">🔗 View PDF</a>
     </li>
   </ul>
 </section>
@@ -71,7 +71,8 @@ focusing on the reduction of hyphae and germ tube formation. Tools: R.</p>
   <ul>
     <li>
       <h3>Manuscript: On the Non-central Dirichlet Distribution</h3>
-      <p>In-depth critique of this published statistical journal article, highlighting methodological strengths and weaknesses. <em>(Manuscript coming soon)</em></p>
+      <p>In-depth critique of this published statistical journal article, highlighting methodological strengths and weaknesses.</p>
+      <a href="https://drive.google.com/drive/u/0/folders/1pRHk_pEnoJTx7SegYHsIe7de7BzavtiO" target="_blank">🔗 View Document</a>
     </li>
     <li>
       <h3>MSc Dissertation</h3>
