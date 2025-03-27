@@ -44,7 +44,7 @@ subtitle: "Graduate Teaching Assistant | MSc in Statistics | Miami University"
     <li>
       <h3>Great Lakes Ice Cover</h3>
       <p>Inferential analysis of seasonal trends in ice coverage using time series and AUC metrics.</p>
-      <a href="/projects/great-lakes-ice/ice_cover_analysis.pdf" target="_blank">🔗 View PDF</a>
+      <a href="https://github.com/okantam/okantam.github.io/blob/main/Final-report%20(1).html" target="_blank">🔗 View PDF</a>
     </li>
     <li>
       <h3>Traffic Stop Data Analysis</h3>
