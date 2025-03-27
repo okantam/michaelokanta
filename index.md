@@ -7,7 +7,7 @@ subtitle: "Graduate Teaching Assistant | MSc in Statistics | Miami University"
 <header class="hero">
   <h1>Michael Okanta</h1>
   <p>MSc in Statistics | Data Analyst | Graduate Teaching Assistant</p>
-  <a href="/resume" class="button">📄 View Resume</a>
+  <a href="https://github.com/okantam/okantam.github.io/blob/main/MICHAEL%20OKANTA%20-%20RESUME.pdf" class="button">📄 View Resume</a>
 </header>
 
 <section class="intro">
