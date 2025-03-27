@@ -94,8 +94,8 @@ focusing on the reduction of hyphae and germ tube formation. Tools: R.</p>
   <h2>Contact</h2>
   <p>Open to analyst and statistician roles, internships, collaborative research, or mentoring opportunities.</p>
   <ul>
-     <li>Email: <a href="mailto:michaelokanta8@gmail.com">okantam@miamioh.edu</a></li>
-    <li>LinkedIn: <a href="https://www.linkedin.com/in/michael-okanta-4486281b5/">linkedin.com/in/yourname</a></li>
+     <li>Email: <a href="mailto:michaelokanta8@gmail.com">michaelokanta8@gmail.com</a></li>
+    <li>LinkedIn: <a href="https://www.linkedin.com/in/michael-okanta-4486281b5/">linkedin.com/in/michaelokanta</a></li>
     <li>GitHub: <a href="https://github.com/okantam">github.com/michaelokanta</a></li>
   </ul>
 </section>
