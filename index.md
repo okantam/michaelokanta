@@ -1,6 +1,5 @@
 ---
 layout: home
-title: "Michael Okanta | Statistician & Data Analyst"
 subtitle: "Graduate Teaching Assistant | MSc in Statistics | Miami University"
 ---
 
