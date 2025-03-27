@@ -5,7 +5,7 @@ subtitle: "Graduate Teaching Assistant | MSc in Statistics | Miami University"
 ---
 
 <header class="hero">
-  <img src="/assets/img/headshot.jpg" alt="Michael Okanta" style="width: 140px; border-radius: 50%; margin: 1rem auto; display: block;">
+  <img src="https://github.com/okantam/okantam.github.io/blob/main/Headshot.JPG" alt="Michael Okanta" style="width: 140px; border-radius: 50%; margin: 1rem auto; display: block;">
   <h1>Michael Okanta</h1>
   <p>MSc in Statistics | Data Analyst | Graduate Teaching Assistant</p>
   <a href="https://github.com/okantam/okantam.github.io/blob/main/MICHAEL%20OKANTA%20-%20RESUME.pdf" class="button">📄 View Resume</a>
