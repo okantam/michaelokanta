@@ -1,5 +1,5 @@
 ---
-theme: jekyll-theme-cayman
+theme: jekyll-theme-modernist
 title: "Michael Okanta"
 subtitle: "Graduate Teaching Assistant | MSc in Statistics | Miami University"
 ---
