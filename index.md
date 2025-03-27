@@ -1,5 +1,5 @@
 ---
-theme: jekyll-theme-chirpy
+theme: jekyll-theme-hacker
 title: "Michael Okanta"
 subtitle: "Graduate Teaching Assistant | MSc in Statistics | Miami University"
 ---
