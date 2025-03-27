@@ -8,7 +8,7 @@ subtitle: "Graduate Teaching Assistant | MSc in Statistics | Miami University"
 <header class="hero">
   <img src="https://raw.githubusercontent.com/okantam/okantam.github.io/main/Headshot.JPG" alt="Michael Okanta" style="width: 140px; border-radius: 50%; margin: 1rem auto; display: block;">
   <p>Statistician / Data Analyst</p>
-  <a href="https://github.com/okantam/okantam.github.io/blob/main/MICHAEL%20OKANTA%20-%20RESUME.pdf" class="button">📄 View Resume</a>
+  <a href="https://raw.githubusercontent.com/okantam/okantam.github.io/main/MICHAEL%20OKANTA%20-%20RESUME.pdf" class="button">📄 View Resume</a>
 </header>
 
 <section class="intro">
@@ -30,38 +30,38 @@ subtitle: "Graduate Teaching Assistant | MSc in Statistics | Miami University"
     <li>
       <h3>Leading Causes of Mortality in the USA</h3>
       <p>Dashboard showing the Leading Causes of Mortality in the USA according to CDC data from 1999 to 2017. Tools: R.</p>
-      <a href="https://github.com/okantam/okantam.github.io/blob/main/MICHAEL%20OKANTA%20-%20STA%20504%20PROJECT.html" target="_blank">🔗 View Dashboard</a>
+      <a href="https://raw.githubusercontent.com/okantam/okantam.github.io/main/MICHAEL%20OKANTA%20-%20STA%20504%20PROJECT.html" target="_blank">🔗 View Dashboard</a>
     </li>
     <li>
       <h3>Text Comprehension Study</h3>
       <p>Analyzed the impact of font style, size and medium on reading comprehension. Tools: SAS.</p>
-      <a href="https://github.com/okantam/okantam.github.io/blob/main/annotated-Group%25205%2520Project%2520Report%20(1).pdf" target="_blank">🔗 View Article</a>
+      <a href="https://raw.githubusercontent.com/okantam/okantam.github.io/main/annotated-Group%205%20Project%20Report%20(1).pdf" target="_blank">🔗 View Article</a>
     </li>
     <li>
       <h3>Effects of Aloe arborescens Compounds on Candida albicans Morphogenesis</h3>
       <p>Investigates effects of compounds derived from Aloe arborescens on the morphogenesis of Candida albicans, specifically
 focusing on the reduction of hyphae and germ tube formation. Tools: R.</p>
-      <a href="https://github.com/okantam/okantam.github.io/blob/main/annotated-Preliminary%2520Analysis%2520Report%2520on%2520the%2520Effect%2520of%2520Aloe%2520arborescens%2520Compounds%2520on%2520Candida%2520albicans%2520Morphogenesis.pdf" target="_blank">🔗 View PDF</a>
+      <a href="https://raw.githubusercontent.com/okantam/okantam.github.io/main/annotated-Preliminary%20Analysis%20Report%20on%20the%20Effect%20of%20Aloe%20arborescens%20Compounds%20on%20Candida%20albicans%20Morphogenesis.pdf" target="_blank">🔗 View PDF</a>
     </li>
     <li>
       <h3>MKT Faculty Ratings Analysis</h3>
       <p>Investigates relationships between professor and student metrics in marketing courses at Miami University. Tools: R.</p>
-      <a href="https://github.com/okantam/okantam.github.io/blob/main/Report--1-.pdf" target="_blank">🔗 View PDF</a>
+      <a href="https://raw.githubusercontent.com/okantam/okantam.github.io/main/Report--1-.pdf" target="_blank">🔗 View PDF</a>
     </li>
     <li>
       <h3>Great Lakes Ice Cover</h3>
       <p>Inferential analysis of seasonal trends in ice coverage using time series and AUC metrics. Tools: R</p>
-      <a href="https://github.com/okantam/okantam.github.io/blob/main/Final-report%20(1).html" target="_blank">🔗 View PDF</a>
+      <a href="https://raw.githubusercontent.com/okantam/okantam.github.io/main/Final-report%20(1).html" target="_blank">🔗 View PDF</a>
     </li>
     <li>
       <h3>Traffic Stop Data Analysis</h3>
       <p>Exploratory and inferential analysis of LMPD traffic stop data. Tools: R.</p>
-      <a href="https://github.com/okantam/okantam.github.io/blob/main/annotated-%255BSTA%2520660%255D%2520Project%25206%2520-%2520Team%25205.pptx%20(1).pdf" target="_blank">🔗 View Slides</a>
+      <a href="https://raw.githubusercontent.com/okantam/okantam.github.io/main/annotated-%5BSTA%20660%5D%20Project%206%20-%20Team%205.pptx%20(1).pdf" target="_blank">🔗 View Slides</a>
     </li>
     <li>
       <h3>Blood Pressure Data Report</h3>
       <p>Statistical summary and inference for a clinical dataset. Tools: R.</p>
-      <a href="https://github.com/user-attachments/files/19478467/annotated-FINAL-PRESSURE-ANALYSIS.pdf" target="_blank">🔗 View PDF</a>
+      <a href="https://raw.githubusercontent.com/okantam/okantam.github.io/main/annotated-FINAL-PRESSURE-ANALYSIS.pdf" target="_blank">🔗 View PDF</a>
     </li>
   </ul>
 </section>
