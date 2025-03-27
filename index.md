@@ -1,6 +1,7 @@
 ---
 layout: home
-title: "Michael Okanta | Graduate Teaching Assistant | MSc in Statistics | Miami University"
+title: "Michael Okanta | MSc in Statistics"
+subtitle: "Graduate Teaching Assistant  | Miami University"
 ---
 
 <header class="hero">
