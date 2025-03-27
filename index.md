@@ -72,7 +72,7 @@ focusing on the reduction of hyphae and germ tube formation. Tools: R.</p>
     <li>
       <h3>Manuscript: On the Non-central Dirichlet Distribution</h3>
       <p>In-depth critique of this published statistical journal article, highlighting methodological strengths and weaknesses.</p>
-      <a href="https://drive.google.com/drive/u/0/folders/1pRHk_pEnoJTx7SegYHsIe7de7BzavtiO" target="_blank">🔗 View Document</a>
+      <a href="https://drive.google.com/drive/u/0/folders/1MZeXpMkaXjclWEoRcb8Oa-P5dtaVLY_K" target="_blank">🔗 View Document</a>
     </li>
     <li>
       <h3>MSc Dissertation</h3>
