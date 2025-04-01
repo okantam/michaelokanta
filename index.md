@@ -75,6 +75,10 @@ focusing on the reduction of hyphae and germ tube formation. Tools: R.</p>
       <a href="https://drive.google.com/drive/u/0/folders/1MZeXpMkaXjclWEoRcb8Oa-P5dtaVLY_K" target="_blank">🔗 View Document</a>
     </li>
     <li>
+      <h3>Manuscript: Multi-Scale Dilated Hybrid Deep Leaning Framework-based Plant Disease Classification and Abnormality Segmentation</h3>
+      <p>Detailed review of this manuscript published in the Journal of Statistical Computation and Simulation. <em>Final draft will be available upon completion.</em></p>
+    </li>
+    <li>
       <h3>MSc Dissertation</h3>
       <p>Reassessing the goodness-of-fit tests in actuarial science decision making: Can we rely on p-value reports?. <em>Final report will be available upon completion.</em></p>
     </li>
@@ -88,7 +92,7 @@ focusing on the reduction of hyphae and germ tube formation. Tools: R.</p>
     <li><strong>Tools:</strong> JMP, Power BI, Tableau, Microsoft Office Suite</li>
     <li><strong>Frameworks:</strong> RMarkdown, Quarto, Shiny, Git</li>
     <li><strong>Techniques:</strong> GLMs, Categorical Data Analysis, Statistical Inference, Simulation, Experimental Design, Scientific Computing, Optimization, Bayesian Statistics, EM Algorithms, Regression Analysis, Predictive Modeling</li>
-    <li><strong>Deliverables:</strong> dashboards, statistical reports, shiny apps, peer reviews, academic writing</li>
+    <li><strong>Deliverables:</strong> dashboards, statistical reports, powerpoint presentations, shiny apps, peer reviews, academic writing</li>
   </ul>
 </section>
 
