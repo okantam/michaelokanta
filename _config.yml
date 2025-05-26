@@ -1,3 +1,5 @@
-title: Michael Okanta
-description: Graduate Teaching Assistant | MSc in Statistics | Miami University
-theme: jekyll-theme-cayman
+remote_theme: "mmistakes/minimal-mistakes"
+plugins:
+  - jekyll-remote-theme
+title: "Michael Okanta"
+description: "Graduate Teaching Assistant | MSc in Statistics | Miami University"
