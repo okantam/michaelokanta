@@ -63,6 +63,16 @@ focusing on the reduction of hyphae and germ tube formation. Tools: R.</p>
       <p>Statistical summary and inference for a clinical dataset. Tools: R.</p>
       <a href="https://drive.google.com/drive/u/0/folders/1jqtcpqDhMHZG3M5TaIPyQ8pWRcaS5KfE" target="_blank">🔗 View PDF</a>
     </li>
+    <li>
+      <h3>Diabetes Predictor</h3>
+      <p>Statistical analysis & predictive model classification comparison for early diagnosis. Tools: R.</p>
+      <a href="https://drive.google.com/drive/u/0/folders/1CsTOEzKbqtUPSy6yiSC1Y78vGjKjp-7z" target="_blank">🔗 View PDF</a>
+    </li>
+    <li>
+      <h3>Bank Churn</h3>
+      <p>Pre-organized predictive model comparison for customer attrition. Tools: R.</p>
+      <a href="https://drive.google.com/drive/u/0/folders/1ztOjEMRkdLAwkSNE5eUqU_6cR09_Ggpt" target="_blank">🔗 View PDF</a>
+    </li>
   </ul>
 </section>
 
@@ -80,8 +90,9 @@ focusing on the reduction of hyphae and germ tube formation. Tools: R.</p>
     </li>
     <li>
       <h3>MSc Dissertation</h3>
-      <p>Reassessing the goodness-of-fit tests in actuarial science decision making: Can we rely on p-value reports?. <em>Final report will be available upon completion.</em></p>
-    </li>
+      <p>Reassessing the goodness-of-fit tests in actuarial science decision making: Can we rely on p-value reports?. </p>
+      <a href="https://drive.google.com/drive/u/1/folders/1UacUaZaeMWWH17GjKmYPUF7zAwJ4n1KY" target="_blank">🔗 View Document</a>
+    </li>   
   </ul>
 </section>
 
