@@ -1,7 +1,7 @@
 ---
 theme: jekyll-theme-cayman
 title: "Michael Okanta"
-subtitle: "Data Analyst | MSc in Statistics | Miami University"
+description: "Statistician · Data Analyst · Storyteller"
 ---
 
 
@@ -14,7 +14,8 @@ subtitle: "Data Analyst | MSc in Statistics | Miami University"
 <section class="intro">
   <h2>About Me</h2>
   <p>
-    I am a current statistics graduate student and teaching assistant with strong technical skills in data analysis, statistical modeling, and applied research. I work with R, SAS, Python, and SQL to build data-driven solutions and communicate complex insights clearly. This site features projects, reports, dashboards, and academic critiques developed during my graduate studies. 
+    ### About Me
+    I’m a **statistician and data analyst** with an MSc in Statistics (Miami University) and First Class Honours in Mathematics. I help organizations leverage data to **drive smarter decisions** in finance, public health, academia, and other sectors. Passionate about **people‑centric analytics**, I translate numbers into narratives that create impact.
   </p>
 </section>
 
