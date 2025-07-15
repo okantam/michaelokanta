@@ -1,8 +1,7 @@
 # Michael Okanta | Portfolio Website
 
-🎓 Graduate Teaching Assistant in Statistics  
 📍 Miami University  
-🎯 Aspiring Statistician & Data Analyst
+🎯 Statistician & Data Analyst
 
 ---
 
