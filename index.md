@@ -1,7 +1,7 @@
 ---
 theme: jekyll-theme-cayman
 title: "Michael Okanta"
-subtitle: "Graduate Teaching Assistant | MSc in Statistics | Miami University"
+subtitle: "Data Analyst | MSc in Statistics | Miami University"
 ---
 
 
@@ -29,12 +29,12 @@ subtitle: "Graduate Teaching Assistant | MSc in Statistics | Miami University"
     </li>
     <li>
       <h3>Leading Causes of Mortality in the USA</h3>
-      <p>Dashboard showing the Leading Causes of Mortality in the USA according to CDC data from 1999 to 2017. Tools: R.</p>
+      <p>Dashboard showing the Leading Causes of Mortality in the USA according to CDC data from 1999 to 2017. Tools: R, R Shiny</p>
       <a href="https://drive.google.com/drive/u/0/folders/1Yg4SN-pbv89mvukr1HNZw-aYwxivGLgs" target="_blank">🔗 View Dashboard</a>
     </li>
     <li>
       <h3>Text Comprehension Study</h3>
-      <p>Analyzed the impact of font style, size and medium on reading comprehension using a 2^3 factorial design. Tools: SAS.</p>
+      <p>Analyzed the impact of font style, size and medium on reading comprehension using a 2^3 factorial design. Tools: SAS, Factorial Design.</p>
       <a href="https://drive.google.com/drive/u/0/folders/1AK5qGQQ7uUFFH0Z09b39SLV6Y135fz0y" target="_blank">🔗 View Article</a>
     </li>
     <li>
@@ -50,12 +50,12 @@ focusing on the reduction of hyphae and germ tube formation. Tools: R.</p>
     </li>
     <li>
       <h3>Great Lakes Ice Cover</h3>
-      <p>Inferential analysis of seasonal trends in ice coverage using time series and AUC metrics. Tools: R</p>
+      <p>Inferential analysis of seasonal trends in ice coverage using time series and AUC metrics. Tools: R, Imputation</p>
       <a href="https://drive.google.com/drive/u/0/folders/1_ahKGt0UEGC8s56hp6CAAsmVM915MWKa" target="_blank">🔗 View PDF</a>
     </li>
     <li>
       <h3>Traffic Stop Data Analysis</h3>
-      <p>Exploratory and inferential analysis of LMPD traffic stop data. Tools: R.</p>
+      <p>Exploratory and inferential analysis of LMPD traffic stop data. Tools: R, GLM.</p>
       <a href="https://drive.google.com/drive/u/0/folders/15dL1hMAtT_BX7hsRqgGAbEiJT2yJ5jPt" target="_blank">🔗 View Slides</a>
     </li>
     <li>
@@ -65,7 +65,7 @@ focusing on the reduction of hyphae and germ tube formation. Tools: R.</p>
     </li>
     <li>
       <h3>Diabetes Predictor</h3>
-      <p>Statistical analysis & predictive model classification comparison for early diagnosis. Tools: R.</p>
+      <p>Statistical analysis & predictive model classification comparison for early diagnosis. Tools: R, Machine Learning, Decision Trees.</p>
       <a href="https://drive.google.com/drive/u/0/folders/1CsTOEzKbqtUPSy6yiSC1Y78vGjKjp-7z" target="_blank">🔗 View PDF</a>
     </li>
     <li>
