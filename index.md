@@ -37,15 +37,6 @@ I'm a statistician and data analyst with an MSc in Statistics (Miami University)
       </div>
     </div>
   </div>
-    <div class="col-md-6">
-    <div class="card mb-3">
-      <div class="card-body">
-        <h4>🩺 USA Mortality Dashboard</h4>
-        <p>CDC data from 1999–2017 visualized using R and R Shiny.</p>
-        <a href="https://drive.google.com/drive/u/0/folders/1Yg4SN-pbv89mvukr1HNZw-aYwxivGLgs" class="btn btn-sm btn-success" target="_blank">🔗 View Dashboard</a>
-      </div>
-    </div>
-  </div>
 </div>
 
 > You can expand more project cards like these. Let me know if you want a full card layout for all projects.
