@@ -14,8 +14,7 @@ description: "Statistician · Data Analyst · Storyteller"
 <section class="intro">
   <h2>About Me</h2>
   <p>
-    ### About Me
-    I’m a **statistician and data analyst** with an MSc in Statistics (Miami University) and First Class Honours in Mathematics. I help organizations leverage data to **drive smarter decisions** in finance, public health, academia, and other sectors. Passionate about **people‑centric analytics**, I translate numbers into narratives that create impact.
+    I’m a statistician and data analyst with an MSc in Statistics (Miami University) and First Class Honours in Mathematics. I help organizations leverage data to drive smarter decisions in finance, public health, academia, and other sectors. Passionate about people‑centric analytics, I translate numbers into narratives that create impact.
   </p>
 </section>
 
