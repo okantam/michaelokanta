@@ -1,17 +1,3 @@
 title: Michael Okanta
-author: Michael Okanta
 description: Statistician | Data Analyst | Graduate Teaching Assistant
-remote_theme: daattali/beautiful-jekyll
-plugins:
-  - jekyll-remote-theme
-  - jekyll-sitemap
-  - jekyll-seo-tag
-
-# Optional social links
-social-network-links:
-  email: michaelokanta8@gmail.com
-  github: okantam
-  linkedin: michael-okanta-4486281b5
-
-avatar: "PROFESSIONALPHOTO.jpg"
-url: "https://okantam.github.io"
+theme: jekyll-theme-cayman
