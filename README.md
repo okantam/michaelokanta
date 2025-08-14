@@ -10,8 +10,6 @@
 
 ## 🔗 Visit My Personal Website
 
-👉 [https://okantam.github.io](https://okantam.github.io)
-
 This GitHub repository powers my personal portfolio website, where I showcase:
 - Class projects (PDFs, HTML reports)
 - Data analysis work using R, SAS, and Python
